@@ -18,7 +18,6 @@ elif [ -f /etc/arch-release ]; then
 	yaourt -s gedit
 	yaourt -s docky
 	yaourt -s zsh
-	yaourt -s openvpn
 	yaourt -s git
 	yaourt -s google-chrome
 # elif [ -f /etc/redhat-release ] || [ -f /etc/system-release-cpe ]; then
